@@ -1,0 +1,5 @@
+A Programming language is a medium for communication
+between a computer and user.
+Java is a programming language.
+Java is used for deeloping platform independent applications.
+Java was formerly called as Oak.
